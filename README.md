@@ -6,6 +6,6 @@ I'm a passionate software engineer with expertise in web development and a focus
 - 🌱 I’m continuously learning and improving my knowledge in web technologies, SQL, NoSQL databases, and software architecture.
 - 👯 I’m always open to collaborating on interesting projects related to web development or software engineering in general.
 - 💬 Ask me about anything related to web development, databases (SQL and NoSQL), or my experience with technologies like MERN stack and Spring Boot.
-- 📫 You can reach me via https://www.linkedin.com/in/sanjay-lakum-687506221/.
+- 📫 You can reach me via Linkedin https://www.linkedin.com/in/sanjay-lakum-687506221/.
 - 😄 Pronouns: Sanjay.
 - 🧠 Fun Fact: I love solving data structure and algorithm questions in my free time!
